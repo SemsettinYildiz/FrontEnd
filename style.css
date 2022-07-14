@@ -1,0 +1,31 @@
+body {
+  background-color: #f0ebe3;
+}
+.contact {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+button {
+  background-color: #54bab9;
+  padding: 15px 32px;
+}
+.img1 {
+  width: 45px;
+  height: 45px;
+}
+#shop {
+  width: 125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 125px;
+}
+.fiyat {
+  text-align: center;
+}
+input {
+  background-color: silver;
+  color: black;
+}
